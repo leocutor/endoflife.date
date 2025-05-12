@@ -1,7 +1,7 @@
 ---
 title: Angular
 category: framework
-tags: google javascript-runtime herodevs
+tags: google javascript-runtime herodevs tuxcare
 iconSlug: angular
 permalink: /angular
 versionCommand: ng version
@@ -136,6 +136,9 @@ months, with 1-3 minor releases for every major release. There is an
 available.
 
 Commercial support is available for all deprecated versions of Angular through the
-[HeroDevs Never-Ending Support](https://www.herodevs.com/support/nes-angular) initiative.
+[HeroDevs Never-Ending Support](https://www.herodevs.com/support/nes-angular) initiative. [TuxCare's
+Endless Lifecycle Support](https://tuxcare.com/endless-lifecycle-support/angular-16-and-17-eol-support/)
+currently provides commercial support for Angular 16 and 17.
+
 
 *[LTS]: Long Term Support
